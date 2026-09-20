@@ -49,8 +49,8 @@
 <h3 align="center">📊 Atividade & Métricas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoSB-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSB-Dev&layout=compact&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="Linguagens mais Usadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoSB-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoSB-Dev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais Usadas" />
 </div>
 
 <br/>
