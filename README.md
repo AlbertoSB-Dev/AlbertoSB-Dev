@@ -10,8 +10,8 @@
   </p>
 
   <p>
-    <a href="https://25dev.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-25Dev.com.br-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <a href="https://AlbertoTech.com.br" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-AlbertoTech.com.br-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/in/alberto-santana-a94203229/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -46,11 +46,10 @@
 
 <br/>
 
-<h3 align="center">📊 Atividade & Métricas</h3>
+<h3 align="center">📊 Métricas & Atividade</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoSB-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoSB-Dev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoSB-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
